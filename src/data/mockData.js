@@ -363,3 +363,4 @@ export const TIMETABLE_DATA = {
     { departure: '10:30 PM', from: 'Central Library', to: 'South Dorms', duration: '20 min', status: 'Scheduled' }
   ]
 };
+

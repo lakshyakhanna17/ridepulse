@@ -99,3 +99,4 @@ npm run preview
 - **Styling:** Tailwind CSS 3
 - **Icons:** Lucide React
 - **State Management:** React Context API + LocalStorage persistence
+
